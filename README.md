@@ -1,4 +1,5 @@
-# Coffee Site API (part 1: the backend with Mongoose and MongoDB)
+# Coffee Site API 
+### Part 1: the backend with Mongoose and MongoDB
 
 ## Overview
 
