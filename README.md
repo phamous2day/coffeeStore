@@ -1,8 +1,8 @@
 # Coffee Site API 
 ### Part 1: the backend with Mongoose and MongoDB
 
-## Overview
 
+## Overview
 * GET /options/list - list all available grind options
 * POST /signup - allow users to signup to the store.
 * POST /login - allow existing users to login to the store.
